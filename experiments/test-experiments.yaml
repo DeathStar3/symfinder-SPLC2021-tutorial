@@ -1,0 +1,84 @@
+abstract_decorator:
+  localDirectory: abstract_decorator
+  sourcePackage: .
+api_annotations:
+  localDirectory: api_annotations
+  sourcePackage: .
+usage_levels_inheritance:
+  localDirectory: usage_levels_inheritance
+  sourcePackage: .
+usage_levels_mixed:
+  localDirectory: usage_levels_mixed
+  sourcePackage: .
+decorator:
+  localDirectory: decorator
+  sourcePackage: .
+density:
+  localDirectory: density
+  sourcePackage: .
+factory:
+  localDirectory: factory
+  sourcePackage: .
+generic_decorator:
+  localDirectory: generic_decorator
+  sourcePackage: .
+attribute_usage:
+  localDirectory: attribute_usage
+  sourcePackage: .
+attribute_usage_factory:
+  localDirectory: attribute_usage_factory
+  sourcePackage: .
+attribute_usage_generic:
+  localDirectory: attribute_usage_generic
+  sourcePackage: .
+generics:
+  localDirectory: generics
+  sourcePackage: .
+inheritance:
+  localDirectory: inheritance
+  sourcePackage: .
+import_from_different_package:
+  localDirectory: import_from_different_package
+  sourcePackage: .
+import_from_different_package_all_package_imported:
+  localDirectory: import_from_different_package_all_package_imported
+  sourcePackage: .
+inner_class:
+  localDirectory: inner_class
+  sourcePackage: .
+inner_class_before_fields:
+  localDirectory: inner_class_before_fields
+  sourcePackage: .
+metrics:
+  localDirectory: metrics
+  sourcePackage: .
+multiple_patterns:
+  localDirectory: multiple_patterns
+  sourcePackage: .
+multiple_vp:
+  localDirectory: multiple_vp
+  sourcePackage: .
+strategy:
+  localDirectory: strategy
+  sourcePackage: .
+strategy_with_method_parameter:
+  localDirectory: strategy_with_method_parameter
+  sourcePackage: .
+structures:
+  localDirectory: structures
+  sourcePackage: .
+template:
+  localDirectory: template
+  sourcePackage: .
+vps_and_variants:
+  localDirectory: vps_and_variants
+  sourcePackage: .
+vps_in_different_packages:
+  localDirectory: vps_in_different_packages
+  sourcePackage: .
+visibilityTest:
+  localDirectory: visibilityTest
+  sourcePackage: .
+  usageLevel: 4
+  usageType: IN
+

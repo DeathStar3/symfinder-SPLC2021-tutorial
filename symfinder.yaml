@@ -1,0 +1,10 @@
+experimentsFile: experiments.yaml
+
+hotspots:
+  nbVariantsThreshold: 10
+  nbUsageHops: 2
+
+neo4j:
+  boltAddress: bolt://neo4j:7687
+  password: root
+  user: neo4j
